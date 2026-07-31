@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**MohammadMousa/mohammadmousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Mohammad, a Backend Engineer and CTO with 12+ years of experience building and optimizing production systems.
 
-Here are some ideas to get you started:
+💼 Areas of expertise
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- AWS Cloud Infrastructure
+- AWS Cost Optimization (FinOps)
+- Java Backend Development
+- Linux Administration
+- Database Performance & SQL Optimization
+- REST APIs
+- Docker
+
+🔭 I'm currently working on
+
+- AWS infrastructure optimization
+- Production database performance tuning
+- Open-source tools for AWS cost analysis
+
+🌱 I'm currently learning
+
+- Spring Boot
+- Infrastructure as Code (Terraform)
+- CI/CD pipelines (GitHub Actions)
+- Automating containerized deployments
+
+📌 Current goal
+
+Building practical tools that improve cloud efficiency, reduce infrastructure costs, and simplify production operations.
+
+📫 Feel free to connect if you're interested in cloud infrastructure, backend systems, or performance engineering.
